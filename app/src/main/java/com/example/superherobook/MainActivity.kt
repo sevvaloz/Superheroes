@@ -28,6 +28,8 @@ class MainActivity : AppCompatActivity() {
         superheroInformations.add("A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist, Anthony Edward Stark suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a mechanized suit of armor to save his life and escape captivity. Later, Stark develops his suit, adding weapons and other technological devices he designed through his company, Stark Industries. He uses the suit and successive versions to protect the world as Iron Man. Although at first concealing his true identity, Stark eventually publicly reveals himself to be Iron Man.  Initially, Iron Man was a vehicle for Stan Lee to explore Cold War themes, particularly the role of American technology and industry in the fight against communism. Subsequent re-imaginings of Iron Man have transitioned from Cold War motifs to contemporary matters of the time.")
         superheroInformations.add("Aquaman is a DC Comics character. His body is very durable. He was fired because he was the only blonde in Atlantis. He can communicate with and dominate aquatic creatures. It moves very quickly under water. The spear is one of the most powerful weapons. He is one of the Justice League characters.")
 
+
+
         //Verimsiz Veri Hazırlığı (Bitmap Oluşturma)
         /*
         val supermanBitmap = BitmapFactory.decodeResource(applicationContext.resources, R.drawable.superman)
